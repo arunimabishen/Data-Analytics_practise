@@ -1,1 +1,1 @@
-All the Machine Learning Principles applied while learning it theoritically
+All the Machine Learning Principles applied while learning it theoritically certain concepts
