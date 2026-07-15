@@ -13,8 +13,7 @@ data-analytics/
 ├── src/
 │   ├── 01_python_basics.py      # Core Python concepts & logic building
 │   ├── 02_numpy_basics.py       # NumPy fundamentals (coming soon)
-│   ├── 03_pandas_basics.py      # Data handling with pandas (coming soon)
-│
+│   ├── 03_pandas_basics.py      
 ├── notebooks/                  # Jupyter notebooks for analysis
 ├── data/                       # Datasets used in projects
 └── README.md
