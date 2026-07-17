@@ -1,4 +1,4 @@
-# 📊 Data Analytics Repository
+# Data Analytics Repository
 
 This repository contains my journey and practice work in **Data Analytics using Python**
 It includes fundamental Python concepts, data analysis libraries, and hands-on mini projects.
