@@ -84,7 +84,7 @@ python src/01_python_basics.py
 
 ---
 
-## 📌 Note
+##  Note
 
 This repository is actively being updated as I progress in my data analytics journey.
 
