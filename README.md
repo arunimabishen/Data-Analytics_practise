@@ -5,7 +5,7 @@ It includes fundamental Python concepts, data analysis libraries, and hands-on m
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 data-analytics/
@@ -21,7 +21,7 @@ data-analytics/
 
 ---
 
-## 🧠 Prerequisites
+## Prerequisites
 
 Before diving into data analytics, basic Python knowledge is essential.
 This is covered in:
@@ -44,7 +44,7 @@ It includes:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * NumPy (upcoming)
@@ -53,7 +53,7 @@ It includes:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -75,7 +75,7 @@ python src/01_python_basics.py
 
 ---
 
-## 🚀 Goals
+## Goals
 
 * Build strong Python fundamentals
 * Learn data manipulation and analysis
